@@ -1,3 +1,5 @@
+**Check [this repo](https://github.com/adrianlzt/micropython-esp32-cam-docker)** to build micropython for esp32 with this repo.
+
 # micropython-camera-driver
 
 This repository adds camera (OV2640) support to MicroPython for the ESP32 family.
